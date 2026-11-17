@@ -1,10 +1,6 @@
 # kayralrics vault — Fedora edition v1.1
 
-A real, **fully local** notes and encrypted file-storage desktop application. The interface is in English, with a pure black (`#000000`) background and pure red (`#ff0000`) accents. Credit: **kayralrics.net**.
-
-## Update from v1.0 (preserve all existing data)
-
-The encrypted vault data stays in `~/.local/share/kayralrics-vault/vault/` by default, outside this program folder. **Do not delete that vault folder or replace it with the download.** Extract the v1.1 application package and run `./run.sh` there. It opens the same existing encrypted vault with the same password; there is no database migration. For additional safety, first create an encrypted backup from your existing app.
+A real, **fully local** notes and encrypted file-storage desktop application. The interface is in English, with a pure black (`#000000`) background and pure red (`#ff0000`) accents. Credit: **kayralrics.net**
 
 ## Install on Fedora Linux
 
